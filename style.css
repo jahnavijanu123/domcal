@@ -1,45 +1,3 @@
-/* body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    /* background-color: #141518; */
-    /* font-family: Arial, sans-serif;
-    background-image: linear-gradient(aqua,magenta);
-  }
-  
-  .calculator {
-    width: 200px;
-    text-align: center;
-    border: 2px solid;
-    padding: 10px;
-    
-  }
-  
-  #display {
-    width: 90%;
-    height: 50px;
-    font-size: 24px;
-    margin-bottom: 10px;
-    text-align: right;
-    padding: 10px;
-  }
-  
-  .buttons {
-    display: grid; 
-     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-    border-radius: 50%;
-   
-   
-  }
-  
-  .btn {
-    width: 100%;
-    height: 50px;
-    font-size: 18px;
-    cursor: pointer;
-  } */
 
 
   body {
@@ -86,7 +44,7 @@
   }
   
   .btn {
-    width: 45px; /* Adjust width to fit in rows of 4 */
+    width: 45px; 
     height: 50px;
     font-size: 18px;
     cursor: pointer;
